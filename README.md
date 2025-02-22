@@ -52,4 +52,4 @@ Once the environment is activated, run the main Python script:
     Predictions: [138.64]
 
 ### Model Saving
-The trained model will be saved in the ./models directory as pipeline.pkl for later use.
+The trained model will be saved in the `./models` directory as `pipeline.pkl` for later use.
