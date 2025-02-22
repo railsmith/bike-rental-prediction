@@ -24,12 +24,6 @@ Make sure you have the following installed:
    python -m venv module5-mini-project
    ```
 
-### Install the required dependencies
-
-   ```
-   pip install -r requirements.txt
-   ```
-
 ### Activate the virtual environment:
 
 #### On Windows
@@ -39,6 +33,12 @@ Make sure you have the following installed:
 #### On macOS/Linux
 
     source module5-mini-project/bin/activate
+
+### Install the required dependencies
+
+   ```
+   pip install -r requirements.txt
+   ```
 
 ### Running the Project
 
