@@ -27,17 +27,26 @@ pip install -r requirements.txt
 
 ### Activate the virtual environment:
 
-## On Windows
-```bash
-.\module5-mini-project\Scripts\activate
-
-## On macOS/Linux:
-```bash
-source module5-mini-project/bin/activate
+#### On Windows
+    ```bash
+    .\module5-mini-project\Scripts\activate
+    
+#### On macOS/Linux:
+    ```bash
+    source module5-mini-project/bin/activate
 
 ### Running the Project
 
 Once the environment is activated, run the main Python script:
 
-```bash
-python .\main.py
+    ```bash
+    python .\main.py
+
+    ```code
+    R2 score: 0.9880657661164608
+    Mean Squared Error: 404.26698914461065
+    Model saved to ./models/pipeline.pkl
+    Predictions: [138.64]
+
+### Model Saving
+The trained model will be saved in the ./models directory as pipeline.pkl for later use.
