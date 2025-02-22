@@ -1,4 +1,4 @@
-# Virtualenv Module5 Mini Project
+# Bike Rental Prediction Modular project
 
 This project demonstrates a machine learning pipeline that processes data, builds a model, and saves it for future use.
 
