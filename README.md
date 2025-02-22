@@ -19,30 +19,33 @@ Make sure you have the following installed:
 2. Navigate to the project directory in your terminal.
 
 3. Create a virtual environment:
-   ```bash
+
+   ```
    python -m venv module5-mini-project
+   ```
 
 ### Install the required dependencies
-pip install -r requirements.txt
+
+   ```
+   pip install -r requirements.txt
+   ```
 
 ### Activate the virtual environment:
 
 #### On Windows
-    ```bash
+
     .\module5-mini-project\Scripts\activate
     
-#### On macOS/Linux:
-    ```bash
+#### On macOS/Linux
+
     source module5-mini-project/bin/activate
 
 ### Running the Project
 
 Once the environment is activated, run the main Python script:
 
-    ```bash
     python .\main.py
 
-    ```code
     R2 score: 0.9880657661164608
     Mean Squared Error: 404.26698914461065
     Model saved to ./models/pipeline.pkl
